@@ -5,7 +5,6 @@
 ## Установка
 
 ### [Скачать QuickNote v2.4.1](https://example.com/quicknote/releases/latest)
-
 Пароль от архива: `12345`
 
 1. После скачивания распакуйте архив
