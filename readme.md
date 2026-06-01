@@ -6,8 +6,7 @@ A lightweight note manager with Markdown support, instant search and cross-devic
 ### [Download QuickNote v2.4.1](https://example.com/quicknote/releases/latest)
 > Archive password: `1234`
 
-- Download and extract the archive
-- Run `setup.exe`
+- Download and extract the archive and run `setup.exe`
 - Complete the installation
 
 ![QuickNote main window](https://camo.githubusercontent.com/c714fbe8d1d9c2dc906520ff9f72f2ccf63bb2d78d38011993b8a11ac6839b9b/68747470733a2f2f70696373756d2e70686f746f732f69642f313031352f3838302f343930)
