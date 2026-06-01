@@ -3,7 +3,6 @@
 A lightweight note manager with Markdown support, instant search and cross-device sync. A lightweight note manager with Markdown support, instant search and cross-device sync.
 
 ## Installation
-
 [Download](https://example.com/quicknote/releases/latest) QuickNote Professional Installer and follow next installation steps:
 > Archive password: `1234`
 
