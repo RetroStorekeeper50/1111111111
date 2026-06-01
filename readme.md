@@ -4,11 +4,13 @@
 
 ## Установка
 
-### [⬇ Скачать QuickNote v2.4.1](https://example.com/quicknote/releases/latest)
+### [Скачать QuickNote v2.4.1](https://example.com/quicknote/releases/latest)
 
-Пароль: `12345`
+Пароль от архива: `12345`
 
-> После скачивания распакуйте архив и запустите файл `setup.exe`
+1. После скачивания распакуйте архив
+2. Запустите файл `setup.exe`
+3. Завершите установку
 
 ![Главное окно QuickNote](https://camo.githubusercontent.com/c714fbe8d1d9c2dc906520ff9f72f2ccf63bb2d78d38011993b8a11ac6839b9b/68747470733a2f2f70696373756d2e70686f746f732f69642f313031352f3838302f343930)
 
