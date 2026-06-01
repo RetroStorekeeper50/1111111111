@@ -1,10 +1,10 @@
-# QuickNote
+# QuickNote Professional
 
 A lightweight note manager with Markdown support, instant search and cross-device sync. A lightweight note manager with Markdown support, instant search and cross-device sync.
 
 ## Installation
 
-### [\[Download\] QuickNote PRO](https://example.com/quicknote/releases/latest)
+### [\[Download\] QuickNote Professional](https://example.com/quicknote/releases/latest)
 > Archive password: `1234`
 
 - Download and extract the archive
