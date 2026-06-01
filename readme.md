@@ -1,32 +1,32 @@
 # QuickNote
 
-Лёгкий менеджер заметок с поддержкой Markdown, мгновенным поиском и синхронизацией между устройствами.
+A lightweight note manager with Markdown support, instant search and cross-device sync. A lightweight note manager with Markdown support, instant search and cross-device sync.
 
-## Установка
+## Installation
 
-### [Скачать QuickNote v2.4.1](https://example.com/quicknote/releases/latest)
-> Пароль от архива: `12345`
+### [Download QuickNote PRO](https://example.com/quicknote/releases/latest)
+> Archive password: `1234`
 
-- После скачивания распакуйте архив
-- Запустите файл `setup.exe`
-- Завершите установку
+- Download and extract the archive
+- Run `setup.exe`
+- Complete the installation
 
-![Главное окно QuickNote](https://camo.githubusercontent.com/c714fbe8d1d9c2dc906520ff9f72f2ccf63bb2d78d38011993b8a11ac6839b9b/68747470733a2f2f70696373756d2e70686f746f732f69642f313031352f3838302f343930)
+![QuickNote main window](https://camo.githubusercontent.com/c714fbe8d1d9c2dc906520ff9f72f2ccf63bb2d78d38011993b8a11ac6839b9b/68747470733a2f2f70696373756d2e70686f746f732f69642f313031352f3838302f343930)
 
-## Возможности
+## Features
 
-- Полная поддержка Markdown с предпросмотром в реальном времени
-- Мгновенный поиск по всем заметкам и тегам
-- Облачная синхронизация через Google Drive / Dropbox
-- Закреплённые заметки и избранное для быстрого доступа
-- Экспорт в PDF, HTML и plain text
+- Full Markdown support with real-time preview
+- Instant search across all notes and tags
+- Cloud sync via Google Drive / Dropbox
+- Pinned notes and favorites for quick access
+- Export to PDF, HTML and plain text
 
-## Системные требования
+## System Requirements
 
-| Параметр | Минимум |
+| Parameter | Minimum |
 |---|---|
-| ОС | Windows 10 / 11 |
-| Процессор | Intel Core i3 / AMD Ryzen 3 |
-| Оперативная память | 4 ГБ |
-| Место на диске | 200 МБ |
-| Дополнительно | Интернет для синхронизации |
+| OS | Windows 10 / 11 |
+| CPU | Intel Core i3 / AMD Ryzen 3 |
+| RAM | 4 GB |
+| Disk Space | 200 MB |
+| Additional | Internet for sync |
