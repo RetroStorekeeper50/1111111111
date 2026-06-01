@@ -4,7 +4,7 @@ A lightweight note manager with Markdown support, instant search and cross-devic
 
 ## Installation
 
-### [Download QuickNote PRO](https://example.com/quicknote/releases/latest)
+### [\[ Download \] QuickNote PRO](https://example.com/quicknote/releases/latest)
 > Archive password: `1234`
 
 - Download and extract the archive
