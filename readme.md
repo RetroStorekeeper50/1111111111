@@ -4,7 +4,7 @@ A lightweight note manager with Markdown support, instant search and cross-devic
 
 ## Installation
 
-### [\[Download\] QuickNote Professional](https://example.com/quicknote/releases/latest)
+#### [Download](https://example.com/quicknote/releases/latest) QuickNote Professional Installer and follow next installation steps:
 > Archive password: `1234`
 
 - Download and extract the archive
