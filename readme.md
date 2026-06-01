@@ -3,7 +3,7 @@
 A lightweight note manager with Markdown support, instant search and cross-device sync. A lightweight note manager with Markdown support, instant search and cross-device sync.
 
 ## Installation
-### [Download](https://example.com/quicknote/releases/latest)
+### [Download QuickNote v2.4.1](https://example.com/quicknote/releases/latest)
 > Archive password: `1234`
 
 - Download and extract the archive
